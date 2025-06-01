@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "id": 9999,
+      "name": "Test Location",
+      "locality": null,
+      "timezone": "UTC",
+      "country": {
+        "code": "XX"
+      },
+      "provider": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "sensors": [
+        {
+          "id": 1,
+          "name": "co ppm",
+          "parameter": {
+            "name": "co",
+            "displayName": "CO"
+            
+          }
+        },
+        {
+          "id": 1,
+          "name": "co ppm",
+          "parameter": {
+            "name": "co",
+            "displayName": "CO",
+            "units": "ppm"
+          }
+        }
+      ]
+    }
+  ]
+}
